@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3-us-west-2.amazonaws.com
+  accessKey: AKIAIZ6NHKY36SAZ5G7Q
+  secretKey: 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
+  bucketName: robogram
